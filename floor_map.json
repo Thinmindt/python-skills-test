@@ -1,0 +1,54 @@
+{
+    "grid": {
+        "1": {
+            "A": {
+                "datetimeUpdated": "2021-10-15T10:49:41.788908",
+                "floorId": 1,
+                "type": {
+                    "botNum": 1,
+                    "botType": "printer",
+                    "empty": false,
+                    "orientation": "north",
+                    "protected": true
+                }
+            },
+            "B": {
+                "datetimeUpdated": "2021-10-15T10:49:41.788908",
+                "floorId": 2,
+                "type": {
+                    "botNum": null,
+                    "botType": "",
+                    "empty": true,
+                    "orientation": "",
+                    "protected": false
+                }
+            }
+        },
+        "2": {
+            "A": {
+                "datetimeUpdated": "2021-10-15T10:49:41.788908",
+                "floorId": 3,
+                "type": {
+                    "botNum": null,
+                    "botType": "",
+                    "empty": true,
+                    "orientation": "",
+                    "protected": false
+                }
+            },
+            "B": {
+                "datetimeUpdated": "2021-10-15T10:49:41.788908",
+                "floorId": 4,
+                "type": {
+                    "botNum": 4,
+                    "botType": "transporter",
+                    "empty": false,
+                    "orientation": "north",
+                    "protected": true
+                }
+            }
+        },
+        "maxGridPointColumn": 2,
+        "maxGridPointRow": 2
+    }
+}

@@ -59,10 +59,10 @@ if __name__ == "__main__":
                         "protected": False
                     }
                 }
-            },
-            "maxGridPointColumn": 2,
-            "maxGridPointRow": 2
-        }
+            }
+        },
+        "maxGridPointColumn": 2,
+        "maxGridPointRow": 2
     }
     command = 'setFloorMap'
     payload = {command: payload}
